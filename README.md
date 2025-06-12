@@ -13,4 +13,8 @@ ___
 |programacion|desarrollo|
 |entornos|cliente|
 
+![GNU](image.png)
+
+
+
 
