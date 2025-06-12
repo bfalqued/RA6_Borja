@@ -8,3 +8,7 @@ ___
 `2.Haz un fork del repositorio`
 `3.Haz un fork del repositorio`
 `4.Haz un fork del repositorio`
+|Modulos de primero | modulos de segundo|
+|-------------------|-------------------|
+|programacion|desarrollo|
+|entornos|cliente|
